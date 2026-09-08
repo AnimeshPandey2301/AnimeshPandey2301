@@ -1,44 +1,61 @@
-╔══════════════════════════════════════╗
+<div align="center">
 
-          ANIMESH PANDEY
-      Full Stack Developer
+# 👋 Hi, I'm Animesh Pandey
 
-       typing animation
-            ↓
-   Java • Python • JavaScript
-   React • Node • MongoDB
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+%7C+Python+%7C+JavaScript;React+%7C+Node.js+%7C+MongoDB;Building+Modern+Web+Applications" />
 
-╠══════════════════════════════════════╣
+<br><br>
 
-              ABOUT ME
+<img src="https://komarev.com/ghpvc/?username=AnimeshPandey2301&label=Profile%20Views&color=0e75b6&style=flat" />
 
-        👨‍💻 Developer
-        🚀 Builder
-        📚 Learner
+</div>
 
-╠══════════════════════════════════════╣
+---
 
-            TECH STACK
+## 🚀 About Me
 
-      Java     Python     JS
-      React    Node       MongoDB
-      HTML     CSS        Git
+- 👨‍💻 Full Stack Developer
+- 🚀 Building modern web applications
+- 📚 Constantly learning new technologies
+- ⚡ Turning ideas into real-world projects
+- 💡 Interested in Web Development & Software Development
 
-╠══════════════════════════════════════╣
+---
 
-          🚀 FEATURED PROJECTS
+## 🛠️ Tech Stack
 
-      Project 1    Project 2
-      Project 3    Project 4
+<div align="center">
 
-╠══════════════════════════════════════╣
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,nodejs,mongodb,git,github,vscode" />
 
-            📊 GITHUB STATS
+</div>
 
-        Stats       Streak
+---
 
-╠══════════════════════════════════════╣
+## 📊 GitHub Analytics
 
-        🐍 CONTRIBUTION SNAKE
+<div align="center">
 
-╚══════════════════════════════════════╝
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=AnimeshPandey2301&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnimeshPandey2301&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=AnimeshPandey2301&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Code • Learn • Build • Repeat ⚡
+
+</div>
