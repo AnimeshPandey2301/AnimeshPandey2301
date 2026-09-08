@@ -1,16 +1,44 @@
-## Hi there 👋
+╔══════════════════════════════════════╗
 
-<!--
-**AnimeshPandey2301/AnimeshPandey2301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+          ANIMESH PANDEY
+      Full Stack Developer
 
-Here are some ideas to get you started:
+       typing animation
+            ↓
+   Java • Python • JavaScript
+   React • Node • MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+╠══════════════════════════════════════╣
+
+              ABOUT ME
+
+        👨‍💻 Developer
+        🚀 Builder
+        📚 Learner
+
+╠══════════════════════════════════════╣
+
+            TECH STACK
+
+      Java     Python     JS
+      React    Node       MongoDB
+      HTML     CSS        Git
+
+╠══════════════════════════════════════╣
+
+          🚀 FEATURED PROJECTS
+
+      Project 1    Project 2
+      Project 3    Project 4
+
+╠══════════════════════════════════════╣
+
+            📊 GITHUB STATS
+
+        Stats       Streak
+
+╠══════════════════════════════════════╣
+
+        🐍 CONTRIBUTION SNAKE
+
+╚══════════════════════════════════════╝
